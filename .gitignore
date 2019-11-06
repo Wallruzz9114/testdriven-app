@@ -1,3 +1,5 @@
 services/users/.vscode/
 services/users/env/
 services/users/project/__pycache__/
+services/users/project/api/__pycache__/
+services/users/project/tests/__pycache__/
